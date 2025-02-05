@@ -1,0 +1,50 @@
+Prompt 1: "Create an accessible website that has these attributes:"
+ChatGPT said:
+ChatGPT
+Sure! Could you please list the specific attributes you'd like the website to have? That way, I can guide you more effectively in creating it.
+
+Prompt 2: It's responsive but the image gets a little smaller and I'd rather the textbox become longer than the image
+
+You said:
+Prompt 3: "Create a Navigation Bar add links to the Home, Hobbies, and Projects pages.
+
+On the extreme right of the Navigation Bar add an icon, this can be an icon of your choice.
+
+Add an image of yourself on the page.
+
+Write a short description on the right of the image as shown.
+
+Add a link to the Resume page below the description (this should take you to resume.html).
+
+Add a footer with all social media links you would like to provide. Include at least one."
+
+Prompt 2: Use a generative AI to generate a barebones HTML home page for your website. It should meet the following requirements
+
+Create a Navigation Bar add links to the Home, Hobbies, and Projects pages.
+
+On the extreme right of the Navigation Bar add an icon, this can be an icon of your choice.
+
+Create a div that will contain all the cards for your hobbies.
+
+Create a horizontal list of min 3 Cards, each representing one of your top interests. In each card, include an image that represents the interest, a title of the interest, and why you like the interest.
+
+tip
+Apply the concept of Grids to get the cards in a row.
+
+Prompt 4: Create a framework for The Projects HTML page in your personal website would contains carousel with an image and a card on the image with the title and description. and include these attributes Create a Navigation Bar add links to the Home, Hobbies, and Projects pages.
+
+On the extreme right of the Navigation Bar add an icon, this can be an icon of your choice.
+
+Add at least 3 projects with images and description. These can be presented in a style of your choice.
+
+Add a footer with all social media links you would like to provide. Include at least one.
+
+Prompt 5: How do you allow the images to resize with the screen?
+
+Prompt 6: Now how do you change the color of the side arrows to stand out from the picture?
+
+Prompt 7: How do you add focus and hover to the 3 links of the navbar?
+
+Image Sources: 
+https://www.twoday.com/blog/bias-in-ai-can-lead-to-unfair-and-incorrect-decisions
+https://www.theconstruct.ai/start-programming-drones-using-ros-video-answer/
